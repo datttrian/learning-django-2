@@ -8,9 +8,9 @@ With Django, you can take web applications from concept to launch in a matter of
 
 ### Instructor
 
-Leticia Portella
+Caleb Smith
 
-Software Developer | Podcaster | Oceanographer
+Software Developer, Trainer, Speaker
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/caleb-smith).
 
