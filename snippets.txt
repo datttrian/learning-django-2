@@ -1,3 +1,5 @@
+
+
 vscode ➜ /workspaces/learning-django-2/wisdompets (main) $ poetry run python manage.py shell
 Python 3.10.13 (main, Oct  4 2023, 17:08:16) [GCC 11.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
